@@ -29,6 +29,8 @@ public class BatchConfig {
     @Autowired
     private JobBuilderFactory jbf;
     
+    
+ 
    
 //    @Bean
 //    public Tasklet myTasklet() {
